@@ -1,0 +1,8 @@
+start MainIsland 9001
+frame-rate 16
+pvp false
+max-players 8
+title Story Game
+difficulty 1
+log-level off
+net stats false
